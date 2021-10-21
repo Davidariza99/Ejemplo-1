@@ -2,7 +2,7 @@
 
 ## Integrantes:
 
-David Ariza
-Maicol Fontecha
-Andres Unibio
-Sharem Alonso
+-David Ariza
+-Maicol Fontecha
+-Andres Unibio
+-Sharem Alonso
