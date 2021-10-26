@@ -7,10 +7,10 @@
 - Andres Unibio
 - Sharem Alonso
 
-##Descripción:
+## Descripción:
 Vigilante y cuidador de mascotas en casa
 
-##Funciones:
+## Funciones:
 -Vigilar (Camara)
 -Comando de voz: Pregrabado(mp3): Llamar, consentir, felicitar y corregir
 -Conexión con la dispensación de alimento 
