@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T12:56:59.400Z" agent="5.0 (X11)" etag="ZLSkRBy7X-vSFxbSARql" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T13:05:52.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="5q_4QafUW_htwE7QcLut" version="15.5.9" type="github">
   <diagram id="Kov3oZdJt8vPXKoNyL5-" name="Page-1">
-    <mxGraphModel dx="1029" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,17 +13,17 @@
         <mxCell id="YjW6c7i_GBq9R-pZGp5B-6" value="Motor" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pQWwAxiqqbHr_JKsDW9g-2" value="WiFi" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pQWwAxiqqbHr_JKsDW9g-2" value="WiFi" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pQWwAxiqqbHr_JKsDW9g-3" value="&lt;div&gt;Cámara&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;perimeterSpacing=6;" vertex="1" parent="1">
+        <mxCell id="pQWwAxiqqbHr_JKsDW9g-3" value="&lt;div&gt;Cámara&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;perimeterSpacing=6;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pQWwAxiqqbHr_JKsDW9g-4" value="Procesador" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="pQWwAxiqqbHr_JKsDW9g-4" value="Procesador" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pQWwAxiqqbHr_JKsDW9g-6" value="Celular" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="390" width="80" height="80" as="geometry" />
+        <mxCell id="pQWwAxiqqbHr_JKsDW9g-6" value="Celular" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
