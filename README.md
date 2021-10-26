@@ -10,8 +10,13 @@
 ## Descripción:
 Vigilante y cuidador de mascotas en casa
 
-## Funciones:
+## Requerimientos funcionales:
 - Vigilar (Camara)
-- Comando de voz: Pregrabado(mp3): Llamar, consentir, felicitar y corregir
+- Comando de voz: Llamar, consentir, felicitar y corregir
 - Conexión con la dispensación de alimento 
-- Movilidad
+- Movilidad (en un solo nivel)
+
+## Requerimientos no funcionales:
+- Audios pregrabados(mp3)
+- Sensor de movimiento y calor 
+- Conexión bluetooth Pet_Sitting y sensores del dispensador de alimentos
