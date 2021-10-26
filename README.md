@@ -11,7 +11,7 @@
 Vigilante y cuidador de mascotas en casa
 
 ## Funciones:
--Vigilar (Camara)
--Comando de voz: Pregrabado(mp3): Llamar, consentir, felicitar y corregir
--Conexión con la dispensación de alimento 
--Movilidad
+- Vigilar (Camara)
+- Comando de voz: Pregrabado(mp3): Llamar, consentir, felicitar y corregir
+- Conexión con la dispensación de alimento 
+- Movilidad
