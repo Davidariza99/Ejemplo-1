@@ -10,7 +10,8 @@
 ## Descripción:
 Vigilante y cuidador de mascotas en casa
 
-## Justificación: Se ha presentado un aumento significativo de la adopción de mascotas durante la pandemia, a medida que las personas vuelven a sus oficinas, universidades y demas obligaciones fuera del hogar, las mascotas que fueron criadas con la constante compañia de sus dueños, ahora sienten su ausencia, y no solo ellos si no tambien los dueños
+## Justificación: 
+Se ha presentado un aumento significativo de la adopción de mascotas durante la pandemia, a medida que las personas vuelven a sus oficinas, universidades y demas obligaciones fuera del hogar, las mascotas que fueron criadas con la constante compañia de sus dueños, ahora sienten su ausencia, y no solo ellos si no tambien los dueños
 
 ## Requerimientos funcionales:
 - Vigilar (Camara)
