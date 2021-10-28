@@ -23,7 +23,7 @@ Se ha presentado un aumento significativo de la adopción de mascotas durante la
 - Cámara
 - Audios pregrabados(mp3)
 - Sensor de ultrasonido
-- Sensor de temperatura
+- Sensor de temperatura (opcional)
 - Motor y alimentación
 - Módulo WiFi
 - Control remoto (desde un dispositivo móvil)
