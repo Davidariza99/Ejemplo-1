@@ -23,5 +23,4 @@ Se ha presentado un aumento significativo de la adopción de mascotas durante la
 - Camara
 - Audios pregrabados(mp3)
 - Sensor de movimiento y calor 
-- Conexión bluetooth Pet_Sitting y sensores del dispensador de alimentos
 - Motor y alimentación: (Por definir)
