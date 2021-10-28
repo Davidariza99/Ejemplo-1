@@ -16,11 +16,15 @@ Se ha presentado un aumento significativo de la adopción de mascotas durante la
 ## Requerimientos funcionales:
 - Vigilar 
 - Comando de voz: Llamar, consentir, felicitar y corregir
-- Alarma de nivel: dispensación de alimento 
 - Movilidad (en un solo nivel)
+- Interacción con la mascota (diferente para el tipo de mascota)
 
 ## Requerimientos no funcionales:
-- Camara
+- Cámara
 - Audios pregrabados(mp3)
-- Sensor de movimiento y calor 
-- Motor y alimentación: (Por definir)
+- Sensor de ultrasonido
+- Sensor de temperatura
+- Motor y alimentación
+- Módulo WiFi
+- Control remoto (desde un dispositivo móvil)
+- Dispositivo de interacción
