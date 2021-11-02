@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T12:30:38.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="dNBcQ7hzYjlCWjgDldWW" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T12:34:42.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="UnETxfmuPlCLJO2SM0u5" version="15.6.5" type="github">
   <diagram id="Kov3oZdJt8vPXKoNyL5-" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="pQWwAxiqqbHr_JKsDW9g-6" value="Celular" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="275" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="dx68uwRgUBrh4_SJ9RZr-11" value="&lt;div&gt;Interacción&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;perimeterSpacing=6;" parent="1" vertex="1">
+        <mxCell id="dx68uwRgUBrh4_SJ9RZr-11" value="&lt;div&gt;Interacción (I2C)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;perimeterSpacing=6;" parent="1" vertex="1">
           <mxGeometry x="140" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dx68uwRgUBrh4_SJ9RZr-18" value="&lt;div&gt;Sensor temperatura&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;perimeterSpacing=6;" parent="1" vertex="1">
