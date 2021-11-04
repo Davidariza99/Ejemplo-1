@@ -1,4 +1,4 @@
-# Proyecto embebidos melo (Pet_Sitting)
+# Proyecto embebidos (Pet_Sitting)
 
 ## Integrantes:
 
