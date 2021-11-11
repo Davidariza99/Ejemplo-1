@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T13:15:12.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="Q5KvtBoihZFEfN08j9kp" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T13:16:36.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="GEcNFFpw_xJwuU06zVy9" version="15.7.0" type="github">
   <diagram id="Kov3oZdJt8vPXKoNyL5-" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,10 +66,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-1" value="ESP32-CAM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="90" height="65" as="geometry" />
+          <mxGeometry x="320" y="342.5" width="90" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-3" value="OV2640" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="450" width="85" height="65" as="geometry" />
+          <mxGeometry x="322.5" y="442.5" width="85" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7wTW4Tu3UyPvyJkk_ZA_-5" target="7wTW4Tu3UyPvyJkk_ZA_-9">
           <mxGeometry relative="1" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry x="590" y="120" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-18" value="Servo Motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="362.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="170" y="347.5" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
