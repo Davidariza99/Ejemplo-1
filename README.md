@@ -28,3 +28,5 @@ Se ha presentado un aumento significativo de la adopción de mascotas durante la
 - Módulo WiFi
 - Control remoto (desde un dispositivo móvil)
 - Dispositivo de interacción
+
+![Diagrama_bloques drawio](/Imágenes/Diagrama_bloques.drawio.png)
