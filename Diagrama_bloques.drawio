@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T12:26:26.330Z" agent="5.0 (X11)" etag="D3M7MoTs0bKlmgIprzWP" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T12:12:59.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="S8R3mk6kF9YO3HQd0aT5" version="15.8.6" type="github">
   <diagram id="Kov3oZdJt8vPXKoNyL5-" name="Page-1">
-    <mxGraphModel dx="1029" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pQWwAxiqqbHr_JKsDW9g-4" value="ESP32-CAM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="pQWwAxiqqbHr_JKsDW9g-4" value="ESP32" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="180" width="110" height="175" as="geometry" />
         </mxCell>
         <mxCell id="dx68uwRgUBrh4_SJ9RZr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pQWwAxiqqbHr_JKsDW9g-6" target="pQWwAxiqqbHr_JKsDW9g-2" edge="1">
