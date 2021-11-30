@@ -30,4 +30,4 @@ Se ha presentado un aumento significativo de la adopción de mascotas durante la
 - Dispositivo de interacción
 
 ## Diagrama de bloques:
-![Diagrama_bloques drawio](/Imágenes/Diagrama_bloques.drawio.png)
+![Diagrama_bloques drawio](/Diagrama_bloques.drawio.png)
