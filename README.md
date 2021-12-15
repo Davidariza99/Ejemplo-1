@@ -19,7 +19,7 @@ Se ha presentado un aumento significativo de la adopción de mascotas durante la
 
 ## Requerimientos no funcionales:
 - Cámara
-- Audios pregrabados(mp3)
+- Audios pregrabados (mp3)
 - Motor y alimentación
 - Módulo WiFi
 - Control remoto (desde un dispositivo móvil)
