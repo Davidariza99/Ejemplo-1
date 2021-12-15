@@ -6,3 +6,5 @@ Para el proyecto haremos uso de los siguientes elementos:
 - ESP32-CAM
 - ESP32
 - L298N
+- ATSAMD20J18A-A
+- LM386
