@@ -3,7 +3,6 @@
 ## Integrantes:
 
 - David Ariza
-- Maicol Fontecha
 - Andres Unibio
 - Sharem Alonso
 
@@ -17,17 +16,13 @@ Se ha presentado un aumento significativo de la adopción de mascotas durante la
 - Vigilar 
 - Comando de voz: Llamar, consentir, felicitar y corregir
 - Movilidad (en un solo nivel)
-- Interacción con la mascota (diferente para el tipo de mascota)
 
 ## Requerimientos no funcionales:
 - Cámara
 - Audios pregrabados(mp3)
-- Sensor de ultrasonido
-- Sensor de temperatura (opcional)
 - Motor y alimentación
 - Módulo WiFi
 - Control remoto (desde un dispositivo móvil)
-- Dispositivo de interacción
 
 ## Diagrama de bloques:
 ![Diagrama_bloques drawio](/Diagrama_bloques.drawio.png)
