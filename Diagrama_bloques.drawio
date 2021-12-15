@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T12:14:44.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="2oSYfFyaVfKQbZOsTRSt" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T21:44:09.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="Mg4ijW1kfuTXkhpXAFOI" version="15.9.6" type="github">
   <diagram id="Kov3oZdJt8vPXKoNyL5-" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,14 +22,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pQWwAxiqqbHr_JKsDW9g-4" target="7wTW4Tu3UyPvyJkk_ZA_-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="280" />
-              <mxPoint x="590" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pQWwAxiqqbHr_JKsDW9g-4" target="7wTW4Tu3UyPvyJkk_ZA_-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -40,14 +32,6 @@
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pQWwAxiqqbHr_JKsDW9g-4" target="7wTW4Tu3UyPvyJkk_ZA_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pQWwAxiqqbHr_JKsDW9g-4" target="7wTW4Tu3UyPvyJkk_ZA_-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="210" />
-              <mxPoint x="580" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pQWwAxiqqbHr_JKsDW9g-4" target="7wTW4Tu3UyPvyJkk_ZA_-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -56,7 +40,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pQWwAxiqqbHr_JKsDW9g-4" value="ESP32" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="MPDilwUjv-7jiX3hGwzV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pQWwAxiqqbHr_JKsDW9g-4" target="MPDilwUjv-7jiX3hGwzV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQWwAxiqqbHr_JKsDW9g-4" value="ESP32 CAM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="180" width="110" height="175" as="geometry" />
         </mxCell>
         <mxCell id="dx68uwRgUBrh4_SJ9RZr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pQWwAxiqqbHr_JKsDW9g-6" target="pQWwAxiqqbHr_JKsDW9g-2" edge="1">
@@ -70,7 +57,7 @@
         <mxCell id="pQWwAxiqqbHr_JKsDW9g-6" value="Celular" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-3" value="OV7670" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-3" value="OV2640" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="400" width="85" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7wTW4Tu3UyPvyJkk_ZA_-5" target="7wTW4Tu3UyPvyJkk_ZA_-9" edge="1">
@@ -88,9 +75,6 @@
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-11" value="Motor 2" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="492.5" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-16" value="Interacción&lt;br&gt;(I2C)" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="250" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-18" value="Servo Motor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="397.5" width="90" height="60" as="geometry" />
         </mxCell>
@@ -98,7 +82,13 @@
           <mxGeometry x="352.5" y="80" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-23" value="Amplificador&lt;br&gt;Audio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="545" y="237.5" width="120" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MPDilwUjv-7jiX3hGwzV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPDilwUjv-7jiX3hGwzV-1" target="7wTW4Tu3UyPvyJkk_ZA_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPDilwUjv-7jiX3hGwzV-1" value="Microcontrolador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="160" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
