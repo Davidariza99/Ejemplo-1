@@ -1,4 +1,4 @@
-## Modulos
+## Módulos
 
 Para el proyecto haremos uso de los siguientes elementos:
 
