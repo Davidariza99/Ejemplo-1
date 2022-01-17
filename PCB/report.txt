@@ -1,0 +1,18 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'IC1:ESP32CAM:ESP32CAM'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical'.
+Info: Processing symbol 'LS1:Connector_Wire:SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm'.
+Info: Processing symbol 'M1:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Processing symbol 'U1:DFR0299:DIPS1778W50P254L2100H170Q16N'.
+Info: Processing symbol 'U2:LD293D:DIP880W50P254L2000H510Q16'.
+Info: Processing symbol 'U3:LM1117T-5:TO254P470X1016X2222-3P'.
+
+
+Info: Total warnings: 0, errors: 0.

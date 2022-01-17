@@ -1,0 +1,60 @@
+** Drc report for G:\My Drive\UNAL\Materias\Electrónica digital\Sistemas embebidos\Documentos\Embebidos\Pet_sitting\Pet_sitting.kicad_pcb **
+** Created on 2022-01-17 09:44:39 **
+
+** Found 2 DRC violations **
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(120.9090 mm, 85.0190 mm): Track [GND] on F.Cu, length 0.4596 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(120.1550 mm, 96.8350 mm): Track [GND] on F.Cu, length 0.1930 mm
+
+** Found 11 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(172.9740 mm, 105.3280 mm): Through hole pad 12 [GND] of U2
+    @(170.4340 mm, 105.3280 mm): Through hole pad 13 [GND] of U2
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(170.4340 mm, 114.1280 mm): Through hole pad 4 [GND] of U2
+    @(172.9740 mm, 114.1280 mm): Through hole pad 5 [GND] of U2
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(120.9090 mm, 80.0100 mm): Through hole pad 1 [GND] of J1
+    @(120.9090 mm, 85.0190 mm): Track [GND] on F.Cu, length 0.4596 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(120.5840 mm, 85.3440 mm): Pad 2 [GND] of C1 on F.Cu
+    @(124.4600 mm, 90.4240 mm): Through hole pad 1 [GND] of U3
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(124.4600 mm, 90.4240 mm): Through hole pad 1 [GND] of U3
+    @(120.1550 mm, 96.8350 mm): Track [GND] on F.Cu, length 0.1930 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(170.4340 mm, 105.3280 mm): Through hole pad 13 [GND] of U2
+    @(170.4340 mm, 114.1280 mm): Through hole pad 4 [GND] of U2
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(120.1550 mm, 97.0280 mm): Pad 2 [GND] of C2 on F.Cu
+    @(124.2210 mm, 105.4100 mm): Through hole pad 3 [GND] of M1
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(124.4600 mm, 90.4240 mm): Through hole pad 1 [GND] of U3
+    @(132.5880 mm, 84.4020 mm): Through hole pad 7 [GND] of IC1
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(180.0860 mm, 95.5040 mm): Through hole pad 7 [GND] of U1
+    @(172.9740 mm, 105.3280 mm): Through hole pad 12 [GND] of U2
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(170.4340 mm, 105.3280 mm): Through hole pad 13 [GND] of U2
+    @(132.5880 mm, 84.4020 mm): Through hole pad 7 [GND] of IC1
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(162.8140 mm, 114.1280 mm): Track [Net-(U1-Pad1)] on F.Cu, length 1.8600 mm
+    @(162.8140 mm, 105.3280 mm): Through hole pad 16 [Net-(U1-Pad1)] of U2
+
+** Found 0 Footprint errors **
+
+** End of Report **
