@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T12:46:34.787Z" agent="5.0 (X11)" etag="2EIGFpeOj49Vt7Oks14d" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T15:24:22.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="MX0gkx_nXENSmgLRfk19" version="16.2.7" type="github">
   <diagram id="Kov3oZdJt8vPXKoNyL5-" name="Page-1">
-    <mxGraphModel dx="1029" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,17 +81,11 @@
         <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-21" value="Fuente" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MPDilwUjv-7jiX3hGwzV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7wTW4Tu3UyPvyJkk_ZA_-23" target="MPDilwUjv-7jiX3hGwzV-4" edge="1">
+        <mxCell id="abnMQKSSt_uuEvVExJ6c-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPDilwUjv-7jiX3hGwzV-1" target="MPDilwUjv-7jiX3hGwzV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7wTW4Tu3UyPvyJkk_ZA_-23" value="Amplificador&lt;br&gt;Audio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="180" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MPDilwUjv-7jiX3hGwzV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MPDilwUjv-7jiX3hGwzV-1" target="7wTW4Tu3UyPvyJkk_ZA_-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MPDilwUjv-7jiX3hGwzV-1" value="Microcontrolador" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="100" width="120" height="50" as="geometry" />
+        <mxCell id="MPDilwUjv-7jiX3hGwzV-1" value="DFPlayer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="170" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MPDilwUjv-7jiX3hGwzV-4" value="Parlante" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="250" width="120" height="40" as="geometry" />
