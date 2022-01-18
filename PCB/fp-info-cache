@@ -1,4 +1,4 @@
-19802420812279416
+19797494364676570
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -49335,13 +49335,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-DFR0299
-DIPS1778W50P254L2100H170Q16N
-MP3-TF-16P
-Undefined or Miscellaneous
-0
-16
-16
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -51246,13 +51239,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-ESP32CAM
-ESP32CAM
-ESP32-CAM-2
-Integrated Circuit
-0
-16
-16
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -55656,13 +55642,6 @@ solder jumper open
 0
 5
 3
-LD293D
-DIP880W50P254L2000H510Q16
-
-
-0
-16
-16
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
