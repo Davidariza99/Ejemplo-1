@@ -25,4 +25,7 @@ Se ha presentado un aumento significativo de la adopción de mascotas durante la
 - Control remoto (desde un dispositivo móvil)
 
 ## Diagrama de bloques:
+### Propuesto
 ![Diagrama_bloques drawio](/DiagramaBloques.png)
+### Final
+![Diagrama_bloques drawio](/DiagramaBloques_V2.png)
