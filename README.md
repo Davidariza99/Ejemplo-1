@@ -35,9 +35,17 @@ Ya teniendo definida la idea del proyecto, se procede a escoger cada uno de los 
 
 ![ESP32_CAM](/imagenes/ESP32_CAM.png)
 
-Teniendo claro esto, lo siguiente era el desplazamiento ¿Cómo hace que esta ESP32 CAM se desplaze por el espacio para cumplir la labor de vigilancia? Se escogió un puente H conectados a dos motores que le darán esa habilidad, además de montar la tarjeta en un servo motor para tener la capacidad también de mover la cámara. 
+Teniendo claro esto, lo siguiente era el desplazamiento ¿Cómo hace que esta ESP32 CAM se desplaze por el espacio para cumplir la labor de vigilancia? Se escogió un puente H (L293D) conectados a dos motores que le darán esa habilidad, además de montar la tarjeta en un servo motor para tener la capacidad también de mover la cámara. 
 
-![Puente H](/imagenes/puenteh.png)
+Ya cumpliendo con los primeros requerimiento de cámara y desplazamiento, el siguiente es el de la intereacción que se tendrá con la mascota. Para esto, la interacción mas viable es la de poder hablar con ellos, con nuestra propia voz, debido a esto se tuvieron variass opciones. Teniendo en cuenta las limitaciones de pines del ESP32 CAM no era posible conectar el amplificador y parlante para emitir los audios pregrabados, por lo que se optó por la opción de un esclavo.
+
+La primera opción, que se puede observar en el primer diagrama de bloques propuesto, tenía como esclavo un microcontrolador con el DAC integrado, necesario para enviar las señales a un amplificador y después al parlante. Sin embargo, el chip del microcontrolador escogido ocupaba mucho espacio para las pocas conexiones que se pensaban hacer, además tampoco se contó con suficiento documentación para su funcionamiento.
+
+Debido a lo anterior, se optó por el DFPlayer Mini un modulo reproductor de audio mp3 con amplificador integrado y que incluso puede funcionar por si solo simplemente conectando pulsadores. Por lo que se acomodaba muy bien a nuestras necesidades.
+
+![DFPlayer mini](/imagenes/DFPlayerMini.jpg)
+
+De esta manera se obtuvo el diagrama de bloques final, donde hay adicional un bloque nombrado "servidor" que es una configuración que se establece por software para poder controlar nuestro dispositivo de manera remota.
 
 
 
