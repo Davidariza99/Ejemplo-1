@@ -47,8 +47,22 @@ Debido a lo anterior, se optó por el DFPlayer Mini un modulo reproductor de aud
 
 De esta manera se obtuvo el diagrama de bloques final, donde hay adicional un bloque nombrado "servidor" que es una configuración que se establece por software para poder controlar nuestro dispositivo de manera remota.
 
+## Esquemático
 
+El siquiente esquemático fue el realizado para la implementación, teniendo en cuenta las recomendaciones de conexión de por ejemplo el DFPlayer mini, que para recepción y emisión se agregaron unas resistencias en serie para eliminar el ruido. Para la entrada se agregó un regulador de tensión para asegurar a la salida una tensión de 5V que es lo necesario para alimentar nuestro circuito.
 
+![Esquemático](/imagenes/Esquematico.png)
 
+## PCB
+
+La primera versión de la PCB se realizó sin tener en cuenta anchos de los caminos, lo cual es importante ya que si son muy delgados no funcionará correctamente el circuito, se necesitan caminos mas anchos para la transmisión de potencia y de información. También se puede observar que no se hizo uso de las vías en más capas, creando muchos caminos en formas no convenientes que pueden generar inductancias indeseadas.
+
+### Versión 1
+
+![PCB V1](/imagenes/PCB_V1.png)
+
+### Versión final
+
+![PCB final](/imagenes/PCB_final.png)
 
 
