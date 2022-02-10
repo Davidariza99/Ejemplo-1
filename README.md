@@ -79,3 +79,6 @@ Para luego hace las adiciones en el código de nuestros motores y el servomotor,
 
 ![Funciones](/imagenes/Funciones.jpeg)
 
+El ejemplo además contaba con una interfaz gráfica que podíamos observar al momento de conectarnos a la IP, interfaz que se vió modificada, teniendo en cuenta nuestros requerimientos, agragando botones para el movimiento de motores y servo, además de deslizadores para controlar características de la cámara
+
+![Interfaz](/imagenes/Interefaz.jpg)
