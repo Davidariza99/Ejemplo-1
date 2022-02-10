@@ -65,4 +65,17 @@ La primera versión de la PCB se realizó sin tener en cuenta anchos de los cami
 
 ![PCB final](/imagenes/PCB_final.png)
 
+## Programación
+
+Para realizar la programación de nuestro pet sitting, se hizo uso de la plataforma de arduino. Se hizo la siguiente conexión para poder programar nuestra ESP32 CAM:
+
+![Programming](/imagenes/Program.png)
+
+de esta manera y descargando las librerías adecuadas, se puede acceder a un ejemplo de CameraWebServer, donde podemos observar el funcionamiento de la cámara, conenctándose remotamente desde un teléfono celular a una IP generada por el ESP32 CAM
+
+![Code](/imagenes/Code.jpeg)
+
+Para luego hace las adiciones en el código de nuestros motores y el servomotor, teniendo nuestro programa listo para ser ejecutado por nuestra placa
+
+![Funciones](/imagenes/Funciones.jpeg)
 
